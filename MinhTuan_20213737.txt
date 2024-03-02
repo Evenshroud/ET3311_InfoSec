@@ -1,0 +1,11 @@
+What I have done so far:
+- Understanding the concepts of 2 ciphers
+
+What I need to improve and learn:
+- Fix bugs on Affine Cipher
+- Include the new feature of encrypting with user's input
+- For Affine cipher, including the feature to use user's key as input as well
+
+Tuan Nguyen M. <Miffy>
+Smart Embedded System and Internet of Things, SEEE@HUST-2024
+Security Operator Tier 1, VSec x TCB's IRP, Vietnam Security Network Joint Stock Co.
